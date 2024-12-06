@@ -7,7 +7,7 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5403/cliente
-    username: produto
+    username: postgres
     password: root
 
   batch:
