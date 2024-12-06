@@ -6,7 +6,7 @@ spring:
     name: produto
 
   datasource:
-    url: jdbc:postgresql://localhost:5400/produto
+    url: jdbc:postgresql://localhost:5401/produto
     username: produto
     password: root
 
